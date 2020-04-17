@@ -1,0 +1,2 @@
+source 'https://supermarket.chef.io'
+cookbook 'python_second_It_Jobs_cookbook', git: 'git@github.com:Saraabd7/python_second_It_Jobs_cookbook.git'

@@ -1,0 +1,7 @@
+DEPENDENCIES
+  python_second_It_Jobs_cookbook
+    git: git@github.com:Saraabd7/python_second_It_Jobs_cookbook.git
+    revision: 2d05d61f48e109955f0ac46d6c3698bbe375a666
+
+GRAPH
+  python_second_It_Jobs_cookbook (0.1.0)
